@@ -28,12 +28,11 @@
     </tr>
   </table>
 </p>
-
-### #Schematic
-![Schematic_page-0001](https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/12e3b0d3-9cd3-4c4f-b940-9a4711f2af87)
 ### #Layout
 ![Layout](https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/21ee792c-5aa6-4024-b466-45a28c82b664)
 
+### #Schematic
+![Schematic_page-0001](https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/12e3b0d3-9cd3-4c4f-b940-9a4711f2af87)
 
 
 
