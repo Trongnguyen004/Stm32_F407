@@ -29,10 +29,11 @@
   </table>
 </p>
 
-### #Layout
-https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/e9f7de8e-23b9-4768-9796-d9e8dcba4bc0
 ### #Schematic
-https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/b0901872-840c-4dcc-a4c4-6d6c346da2e9
+![Schematic_page-0001](https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/12e3b0d3-9cd3-4c4f-b940-9a4711f2af87)
+### #Layout
+![Layout](https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/21ee792c-5aa6-4024-b466-45a28c82b664)
+
 
 
 
