@@ -5,10 +5,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/59e277ed-8d23-402e-bb22-deb41cc44e2a" width="300">
+        <img src="https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/59e277ed-8d23-402e-bb22-deb41cc44e2a" width="200">
       </td>
       <td>
-        <img src="https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/ff38c11f-9e28-43f8-950d-b0941fb28034"  width="300">
+        <img src="https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/ff38c11f-9e28-43f8-950d-b0941fb28034"  width="200">
       </td>
     </tr>
   </table>
