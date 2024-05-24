@@ -30,19 +30,10 @@
 </p>
 
 ### #Layout
+https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/e9f7de8e-23b9-4768-9796-d9e8dcba4bc0
+### #Schematic
+https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/b0901872-840c-4dcc-a4c4-6d6c346da2e9
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/e9f7de8e-23b9-4768-9796-d9e8dcba4bc0" width="300">
-      </td>
-      <td>
-        <img src="https://github.com/Trongnguyen004/Stm32_F407/assets/137270832/b0901872-840c-4dcc-a4c4-6d6c346da2e9"  width="300">
-      </td>
-    </tr>
-  </table>
-</p>
 
 
 
